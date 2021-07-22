@@ -8,8 +8,8 @@ The items codes are individual letters of the alphabet (A, B, C, and so on).
 Our goods are priced individually. In addition, there are special deals on
 some combinations of products.
 
-For example, item ‘A’ might cost 50 pence individually, but we have a special
-offer: buy three ‘A’s and they'll cost you £1.30. In fact this week's prices
+For example, item ‘A’ might cost 50 cent individually, but we have a special
+offer: buy three ‘A’s and they'll cost you 1'30€. In fact this week's prices
 are:
 
 ## Product prices
